@@ -8,6 +8,13 @@
       "when": 1758208041146,
       "tag": "0000_soft_mentallo",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1758285804517,
+      "tag": "0001_reflective_whistler",
+      "breakpoints": true
     }
   ]
 }
